@@ -44,8 +44,6 @@ function Api() {
                     )
                     )}
                 </tbody>
-
-
             </table>
         </div>
     )
